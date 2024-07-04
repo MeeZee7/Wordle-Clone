@@ -1,0 +1,1 @@
+This code is a Wordle clone written in Python. Players have six attempts to guess a secret 5-letter word, with feedback provided for each guess. The game uses lists of valid guess and answer words loaded from text files.
